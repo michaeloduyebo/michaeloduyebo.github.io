@@ -1,0 +1,42 @@
+
+
+#my_name {
+	background-color: blue;
+	color: white;
+}
+#con {
+	margin:auto;
+  	position: relative;
+  	width: 60%;
+
+} 
+#life {
+
+  position: absolute;
+  left: 0;
+  width: 50%;
+}
+
+#life #img {
+	width: 440px;
+}
+
+#work_h {
+  position: absolute;
+  right: 0;
+  width: 50%;
+}
+.worktitle {
+	background-color: lightblue;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.sd {
+	letter-spacing: 3px;
+	text-indent: 50px
+}
+.responsibilities {
+	list-style-type: none;
+	font-family: "Times New Roman", Times, serif;
+}
